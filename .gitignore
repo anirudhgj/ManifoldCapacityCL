@@ -4,7 +4,6 @@ checkpoint
 *ckpt*meta
 events.out.tfevents*
 *.pkl
-*.pyc
 *.DS_Store
 *.sublime-workspace
 *.sublime-project
@@ -21,5 +20,12 @@ events.out.tfevents*
 *-ubyte
 *.log
 *.json
-__pycache__
+*.pyc
+*.ipynb_checkpoints
 wandb
+*cpython
+__pycache__
+
+CL/data/cifar-100-python/train
+CL/data/cifar-100-python/test
+CL/data/cifar-100-python/meta
