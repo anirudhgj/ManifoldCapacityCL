@@ -29,3 +29,14 @@ __pycache__
 CL/data/cifar-100-python/train
 CL/data/cifar-100-python/test
 CL/data/cifar-100-python/meta
+
+
+test
+train
+meta
+data_batch_1
+data_batch_2
+data_batch_3
+data_batch_4
+data_batch_5
+batches.meta
